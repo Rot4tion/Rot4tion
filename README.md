@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rot4tion</h1>
 <h3 align="center">I have a PC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rot4tion&label=Profile%20views&color=0e75b6&style=flat" alt="rot4tion" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rot4tion&no-bg=true&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rot4tion" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
