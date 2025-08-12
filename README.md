@@ -30,7 +30,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-zeta-smoky-84.vercel.app/api/top-langs?username=rot4tion&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="rot4tion" /></p>
+  <!---<p>&nbsp;<img align="center" src="https://github-readme-stats-zeta-smoky-84.vercel.app/api/top-langs?username=rot4tion&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="rot4tion" /></p>--->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-smoky-two.vercel.app/?user=rot4tion&theme=dark&hide_border=true&background=0%2C00000000%2C00000000" />
     <img src="https://github-readme-streak-stats-smoky-two.vercel.app/?user=rot4tion&theme=default&hide_border=true&background=0%2C00000000%2C00000000" />
