@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rot4tion</h1>
 <h3 align="center">I have a PC</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rot4tion&no-bg=true&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rot4tion" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=rot4tion&no-bg=true&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rot4tion" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
